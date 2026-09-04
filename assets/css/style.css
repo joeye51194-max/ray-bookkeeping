@@ -31,8 +31,8 @@
   --color-primary-dark: #8B4513;
 
   /* Typography */
-  --font-display: 'Cormorant Garamond', Georgia, serif;
-  --font-mono: 'JetBrains Mono', monospace;
+  --font-display: 'Montserrat', sans-serif;
+  --font-mono: 'Montserrat', sans-serif;
 
   /* Spacing */
   --space: 0.5rem;
